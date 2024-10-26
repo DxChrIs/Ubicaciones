@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "397967174630",
+    "firebase_url": "https://ubicacionesceti-default-rtdb.firebaseio.com",
+    "project_id": "ubicacionesceti",
+    "storage_bucket": "ubicacionesceti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397967174630:android:be4e02a3a728a0721e0427",
+        "android_client_info": {
+          "package_name": "com.example.ubicaciones"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUuwEjy6_tR3P2io1JaLktuxONSZU7EEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
